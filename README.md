@@ -30,7 +30,7 @@ shiny::runApp("path/to/individual_assignment_r")
 
 ## Deployed App
 
-🔗 [View Live App](https://h4rrye.shinyapps.io/individual_assignment_r/)
+🔗 [View Live App](https://connect.posit.cloud/h4rrye/content/019ce3b0-163f-1ffb-0e8e-c0fd81b8db45)
 
 ## Data
 
