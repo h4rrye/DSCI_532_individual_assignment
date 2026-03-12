@@ -1,0 +1,13 @@
+name: individual_assignment_r
+title: individual_assignment_r
+username: h4rrye
+account: h4rrye
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 16876512
+bundleId: 11695719
+url: https://h4rrye.shinyapps.io/individual_assignment_r/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: docs/IA Rubric.md
